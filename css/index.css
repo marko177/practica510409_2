@@ -1,0 +1,17 @@
+h1 {
+    background-color: cadetblue;
+    color: lightcyan;
+    border-radius: 10px;
+    box-shadow: 2px 2px darkgray;
+    width: fit-content;
+}
+
+h1:hover {
+    background-color: darkblue;
+    color: darkcyan;
+    box-shadow: 2px 2px black;
+}
+
+p {
+    border: 1px solid darkred;
+}
